@@ -1,2 +1,4 @@
 Welcome to git merge conflict resolution
 this branch in a feacture brancf
+this branch in a feacture brancf welcome
+this branch in a feacture brancf welcome
